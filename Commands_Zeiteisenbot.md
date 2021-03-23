@@ -14,7 +14,7 @@
 | ++updateCourseInfo\<>coursename\<>key\<>value    | update the info to the course | 
 | ++deleteCourseInfo\<>coursename\<>key      | deletes the corresponding info      |
 | ++deleteCourse\<>coursename | deletes the course      | 
-| ++updateMessage\<>key\<>value | updates the ics-URL      | 
+| ++updateMessage\<>message\<>field<>value | updates the a message    | 
 | ++listCoursedata | for Debugging and Errorhandling     | 
 | ++listUserdata | for Debugging and Errorhandling      | 
 | ++listMessagedata | for Debugging and Errorhandling      |
