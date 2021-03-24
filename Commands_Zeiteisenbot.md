@@ -2,10 +2,13 @@
 
 | Common-Commands        | Description | Parameter  |
 | :------------- |:-------------|:-----|
-| ++addMe \<ICS-URL>     | Adds you to the userlist | \<ICS-URL>: URL to your ICS-Feed (https://zpa.cs.hm.edu/student/) |
+| ++addMe \<ICS-ZPA-URL>   | Adds you to the userlist | \<ICS-ZPA-URL>: URL to your ICS-Feed (https://zpa.cs.hm.edu/student/) from ZPA |
+| ++addMe \<ICS-ZPA-URL> \<ICS-MOODLE-URL>    | Adds you to the userlist | \<ICS-ZPA-URL>: URL to your ICS-Feed (https://zpa.cs.hm.edu/student/) from ZPA \<ICS-MOODLE-URL>: URL to your ICS-Feed from MOODLE|
 | ++deleteMe      | Deletes you from the userlist      |    |
 | ++updateName | updates your name according to your current discordname      |     |
-| ++updateURL \<ICS-URL> | updates the ics-URL      |    \<ICS-URL>: URL to your ICS-Feed (https://zpa.cs.hm.edu/student/) |
+| ++updateZPAURL \<ICS-ZPA-URL> | updates the ics-URL for zpa-calendar     |    \<ICS-ZPA-URL>: URL to your ICS-Feed (https://zpa.cs.hm.edu/student/) from ZPA |
+| ++updateMOODLEURL \<ICS-MOODLE-URL> | updates the ics-URL for zpa-calendar     |    \<ICS-MOODLE-URL>: URL to your ICS-Feed from MOODLE |
+| ++getTasks | If \<ICS-MOODLE-URL> for User is set, reply with Tasks within next 7 days      |     |
 | ++on/off | Turns the notifications on or off     |     |
 | ++petTheBot | Pay your deep respect to the Bot      |     |
 
