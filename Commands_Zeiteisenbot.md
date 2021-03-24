@@ -8,7 +8,7 @@
 | ++updateName | updates your name according to your current discordname      |     |
 | ++updateZPAURL \<ICS-ZPA-URL> | updates the ics-URL for zpa-calendar     |    \<ICS-ZPA-URL>: URL to your ICS-Feed (https://zpa.cs.hm.edu/student/) from ZPA |
 | ++updateMOODLEURL \<ICS-MOODLE-URL> | updates the ics-URL for zpa-calendar     |    \<ICS-MOODLE-URL>: URL to your ICS-Feed from MOODLE |
-| ++getTasks | If \<ICS-MOODLE-URL> for User is set, reply with Tasks within next 7 days      |     |
+| ++getTasks <-all>| If \<ICS-MOODLE-URL> for User is set, reply with Tasks within next 7 days      | -all: Get the whole description to the tasks   |
 | ++on/off | Turns the notifications on or off     |     |
 | ++petTheBot | Pay your deep respect to the Bot      |     |
 
