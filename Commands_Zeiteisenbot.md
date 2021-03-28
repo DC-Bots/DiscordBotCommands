@@ -14,7 +14,7 @@
 
 | Admin-Commands        | Description | 
 | :------------- |:-------------|
-| ++updateCourseInfo\<>coursename\<>key\<>value    | update the info to the course | 
+| ++updateCourseInfo\<>(v/p<>)coursename\<>key\<>value    | update the info to the course, v for lesson, p for praktikum| 
 | ++deleteCourseInfo\<>coursename\<>key      | deletes the corresponding info      |
 | ++deleteCourse\<>coursename | deletes the course      | 
 | ++updateMessage\<>message\<>field<>value | updates the a message    | 
