@@ -10,7 +10,7 @@
 | ++updateMOODLEURL \<ICS-MOODLE-URL> | updates the ics-URL for zpa-calendar     |    \<ICS-MOODLE-URL>: URL to your ICS-Feed from MOODLE |
 | ++getTasks <-all>| If \<ICS-MOODLE-URL> for User is set, reply with Tasks within next 7 days      | -all: Get the whole description to the tasks   |
 | ++on/off | Turns the notifications on or off     |     |
-| ++petTheBot | Pay your deep respect to the Bot      |     |
+| ++petTheBot | Pay deep respect to the Bot      |     |
 
 | Admin-Commands        | Description | 
 | :------------- |:-------------|
