@@ -3,7 +3,7 @@
 ### First steps (command description below)
 - to get coursenotifications: run ``++addMe`` (description below)
 - turn  coursenotifications off: run ``++deleteMe``  or ``++off``
-- get tasknotifications: run ``++getTasks <-all>`` (Moodlecalender-Link needed: https://moodle.hm.edu/calendar/export.php?course=6150)
+- get tasknotifications: run ``++getTasks[<>full]`` (Moodlecalender-Link needed: https://moodle.hm.edu/calendar/export.php?course=6150)
 
 
 ### Behavior
